@@ -1,4 +1,4 @@
-//Created by mwg on 5/14/2018
+//Created by mwg on 4/29/2021
 //version 1.0
 capture program drop varcount
 program define varcount, rclass

@@ -1,0 +1,17 @@
+d 'varcount': a program for counting variables in a list in Stata.
+d
+d varcount is a program for quickly counting the number of variables in a list or dataset.
+d
+d KW: Data management
+d KW: Macro lists
+d
+d Requires: Stata version 9.2
+d
+d Distribution-Date: 20210429
+d
+d Author: Marshall Garland
+d	  Research Scientist,
+d	  Gibson Consulting Group
+d Author Email : mgarland @t gibsonconsult [dot] com
+d
+f varcount.ado
