@@ -3,7 +3,7 @@
 `varcount` counts the unique number of variables in a supplied list, or by default, all variables in the current dataset. It returns the number of variables to `r(variables)`.
 
 # Installation
-`net install varcount, from(https://github.com/marshallwg/varcount/varcount.ado)`
+`net install varcount, from(https://raw.githubusercontent.com/marshallwg/varcount/main/)`
 
 # Usage
 To count the total number of variables in a dataset:
